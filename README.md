@@ -95,5 +95,3 @@ To run the orchestration of fetching data from the PokeAPI with Apache Airflow, 
 With Apache Airflow, you can easily orchestrate the process of fetching data from the PokeAPI and processing it. This project demonstrates a modular approach to data extraction, processing, and orchestration, making it easier to develop and maintain complex data pipelines.
 
 ---
-
-This README.md now includes all the provided information about the project structure, modules, how to run the project with Apache Airflow, and the steps to follow.
